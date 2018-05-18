@@ -995,3 +995,495 @@ http://mypanel.tv:8080/live/rober/12345/17671.ts
 http://mypanel.tv:8080/live/rober/12345/17670.ts
 #EXTINF:-1,Z Tele CA
 http://mypanel.tv:8080/live/rober/12345/17669.ts
+#EXTM3U
+#EXTINF:-1,FR: SFR SPORT 1
+http://217.182.173.184:8000/live/micha/micha/11461.ts
+#EXTINF:-1,FR: SFR SPORT 2
+http://217.182.173.184:8000/live/micha/micha/11460.ts
+#EXTINF:-1,FR: SFR SPORT 3
+http://217.182.173.184:8000/live/micha/micha/11459.ts
+#EXTINF:-1,FR: SFR SPORT 4
+http://217.182.173.184:8000/live/micha/micha/11458.ts
+#EXTINF:-1,FR: SFR SPORT 5
+http://217.182.173.184:8000/live/micha/micha/11457.ts
+#EXTINF:-1,FR: INFO SPORT HD
+http://217.182.173.184:8000/live/micha/micha/3179.ts
+#EXTINF:-1,FR: InfoSport
+http://217.182.173.184:8000/live/micha/micha/10776.ts
+#EXTINF:-1,FR: Eurosport
+http://217.182.173.184:8000/live/micha/micha/10565.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://217.182.173.184:8000/live/micha/micha/10564.ts
+#EXTINF:-1,FR: Eurosport2
+http://217.182.173.184:8000/live/micha/micha/10567.ts
+#EXTINF:-1,FR: L’équipe
+http://217.182.173.184:8000/live/micha/micha/11408.ts
+#EXTINF:-1,FR: AB MOTEUR HD
+http://217.182.173.184:8000/live/micha/micha/3180.ts
+#EXTINF:-1,FR: Bfm Sport
+http://217.182.173.184:8000/live/micha/micha/11406.ts
+#EXTINF:-1,FR: Foot 24/24
+http://217.182.173.184:8000/live/micha/micha/10566.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://217.182.173.184:8000/live/micha/micha/469.ts
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+http://217.182.173.184:8000/live/micha/micha/3182.ts
+#EXTINF:-1,FR: EQUIDIA LIFE HD
+http://217.182.173.184:8000/live/micha/micha/11428.ts
+#EXTINF:-1,FR: BEiN SPORT 1
+http://217.182.173.184:8000/live/micha/micha/452.ts
+#EXTINF:-1,FR: BEiN SPORT 2
+http://217.182.173.184:8000/live/micha/micha/451.ts
+#EXTINF:-1,FR: BEiN SPORT 3
+http://217.182.173.184:8000/live/micha/micha/450.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://217.182.173.184:8000/live/micha/micha/449.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://217.182.173.184:8000/live/micha/micha/448.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://217.182.173.184:8000/live/micha/micha/447.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://217.182.173.184:8000/live/micha/micha/446.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://217.182.173.184:8000/live/micha/micha/10562.ts
+#EXTINF:-1,NL: FOX SPORT 1
+http://217.182.173.184:8000/live/micha/micha/545.ts
+#EXTINF:-1,NL: FOX SPORT 2
+http://217.182.173.184:8000/live/micha/micha/544.ts
+#EXTINF:-1,NL: FOX SPORT 3
+http://217.182.173.184:8000/live/micha/micha/543.ts
+#EXTINF:-1,NL: FOX SPORT 4
+http://217.182.173.184:8000/live/micha/micha/542.ts
+#EXTINF:-1,NL: FOX SPORT 5
+http://217.182.173.184:8000/live/micha/micha/541.ts
+#EXTINF:-1,GR: OTE  SPORT 3
+http://217.182.173.184:8000/live/micha/micha/2807.ts
+#EXTINF:-1,GR: OTE  SPORT 4
+http://217.182.173.184:8000/live/micha/micha/2806.ts
+#EXTINF:-1,GR: OTE  SPORT 5
+http://217.182.173.184:8000/live/micha/micha/2805.ts
+#EXTINF:-1,GR: OTE  SPORT 6
+http://217.182.173.184:8000/live/micha/micha/2804.ts
+#EXTINF:-1,GR: OTE  SPORT 7
+http://217.182.173.184:8000/live/micha/micha/2803.ts
+#EXTINF:-1,GR: OTE  SPORT 8
+http://217.182.173.184:8000/live/micha/micha/2802.ts
+#EXTINF:-1,GR: OTE  SPORT1
+http://217.182.173.184:8000/live/micha/micha/2809.ts
+#EXTINF:-1,GR: OTE  SPORT2
+http://217.182.173.184:8000/live/micha/micha/2808.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HD
+http://217.182.173.184:8000/live/micha/micha/2365.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HD
+http://217.182.173.184:8000/live/micha/micha/2364.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://217.182.173.184:8000/live/micha/micha/2363.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HD
+http://217.182.173.184:8000/live/micha/micha/2362.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HD
+http://217.182.173.184:8000/live/micha/micha/2361.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://217.182.173.184:8000/live/micha/micha/2603.ts
+#EXTINF:-1,AL: SPORT KLUB 1 HD
+http://217.182.173.184:8000/live/micha/micha/3443.ts
+#EXTINF:-1,AL: SPORT KLUB 2
+http://217.182.173.184:8000/live/micha/micha/3442.ts
+#EXTINF:-1,AL: SPORT KLUB 3
+http://217.182.173.184:8000/live/micha/micha/3441.ts
+#EXTINF:-1,AL: SUPER SPORT 2 HD
+http://217.182.173.184:8000/live/micha/micha/3452.ts
+#EXTINF:-1,AL: SUPER SPORT 3 HD
+http://217.182.173.184:8000/live/micha/micha/3451.ts
+#EXTINF:-1,AL: SUPER SPORT 4 HD
+http://217.182.173.184:8000/live/micha/micha/3450.ts
+#EXTINF:-1,AL: SUPER SPORT 5 HD
+http://217.182.173.184:8000/live/micha/micha/3449.ts
+#EXTINF:-1,AL: SUPER SPORT KOSOVA 1
+http://217.182.173.184:8000/live/micha/micha/3448.ts
+#EXTINF:-1,AL: SUPER SPORT KOSOVA 2
+http://217.182.173.184:8000/live/micha/micha/3447.ts
+#EXTINF:-1,PL:POLSAT SPORT EXTRA HD
+http://217.182.173.184:8000/live/micha/micha/2276.ts
+#EXTINF:-1,PL:POLSAT SPORT HD
+http://217.182.173.184:8000/live/micha/micha/2275.ts
+#EXTINF:-1,PL:Eleven Sport HD
+http://217.182.173.184:8000/live/micha/micha/10894.ts
+#EXTINF:-1,PL:Eurosport 1HD
+http://217.182.173.184:8000/live/micha/micha/10893.ts
+#EXTINF:-1,PL:Eurosport 2 HD
+http://217.182.173.184:8000/live/micha/micha/10931.ts
+#EXTINF:-1,PL:Extreme Sports
+http://217.182.173.184:8000/live/micha/micha/10892.ts
+#EXTINF:-1,TR: Bein Sport 1 HD (Local)
+http://217.182.173.184:8000/live/micha/micha/10462.ts
+#EXTINF:-1,TR: Bein Sport 2 HD (Local)
+http://217.182.173.184:8000/live/micha/micha/10465.ts
+#EXTINF:-1,TR: Bein Sport 3 HD (Local)
+http://217.182.173.184:8000/live/micha/micha/10466.ts
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://217.182.173.184:8000/live/micha/micha/625.ts
+#EXTINF:-1,TR: beIN SPORTS 1 SD
+http://217.182.173.184:8000/live/micha/micha/624.ts
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://217.182.173.184:8000/live/micha/micha/623.ts
+#EXTINF:-1,TR: beIN SPORTS 2 SD
+http://217.182.173.184:8000/live/micha/micha/622.ts
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://217.182.173.184:8000/live/micha/micha/621.ts
+#EXTINF:-1,TR: beIN SPORTS 3 SD
+http://217.182.173.184:8000/live/micha/micha/620.ts
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://217.182.173.184:8000/live/micha/micha/619.ts
+#EXTINF:-1,TR: beIN SPORTS 4 SD
+http://217.182.173.184:8000/live/micha/micha/618.ts
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD
+http://217.182.173.184:8000/live/micha/micha/613.ts
+#EXTINF:-1,TR: EUROSPORT 1
+http://217.182.173.184:8000/live/micha/micha/610.ts
+#EXTINF:-1,TR: EUROSPORT 2
+http://217.182.173.184:8000/live/micha/micha/609.ts
+#EXTINF:-1,TR: S SPORT HD
+http://217.182.173.184:8000/live/micha/micha/611.ts
+#EXTINF:-1,TR: SMARTSPOR HD
+http://217.182.173.184:8000/live/micha/micha/612.ts
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://217.182.173.184:8000/live/micha/micha/617.ts
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+http://217.182.173.184:8000/live/micha/micha/616.ts
+#EXTINF:-1,TR: TIVIBUSPOR 3 HD
+http://217.182.173.184:8000/live/micha/micha/615.ts
+#EXTINF:-1,TR: TIVIBUSPOR 4 HD
+http://217.182.173.184:8000/live/micha/micha/614.ts
+#EXTINF:-1,DE: SKY Sport Austria HD
+http://217.182.173.184:8000/live/micha/micha/313.ts
+#EXTINF:-1,DE: SKY Sports News HD
+http://217.182.173.184:8000/live/micha/micha/324.ts
+#EXTINF:-1,DE: SPORT 1
+http://217.182.173.184:8000/live/micha/micha/301.ts
+#EXTINF:-1,DE: SPORT 1  HD
+http://217.182.173.184:8000/live/micha/micha/302.ts
+#EXTINF:-1,DE: SPORT 1 US HD
+http://217.182.173.184:8000/live/micha/micha/300.ts
+#EXTINF:-1,DE: SPORT DIGITAL HD
+http://217.182.173.184:8000/live/micha/micha/299.ts
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://217.182.173.184:8000/live/micha/micha/346.ts
+#EXTINF:-1,DE: Eurosport
+http://217.182.173.184:8000/live/micha/micha/422.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://217.182.173.184:8000/live/micha/micha/345.ts
+#EXTINF:-1,DE: EUROSPORT 2 XTRA
+http://217.182.173.184:8000/live/micha/micha/344.ts
+
+#EXTINF:-1,TR | beIN SPORTS 1 HD
+http://p3x.eu:8080/live/aykut54/aykut54/1.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD.265.HVEC
+http://p3x.eu:8080/live/aykut54/aykut54/234.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD 4K UHD
+http://p3x.eu:8080/live/aykut54/aykut54/9315.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD 1080 p
+http://p3x.eu:8080/live/aykut54/aykut54/8656.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD 720 p
+http://p3x.eu:8080/live/aykut54/aykut54/8655.ts
+#EXTINF:-1,TR | beIN SPORTS 1 SD
+http://p3x.eu:8080/live/aykut54/aykut54/8654.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD MOBILE
+http://p3x.eu:8080/live/aykut54/aykut54/8604.ts
+#EXTINF:-1,TR | beIN SPORTS 2 HD
+http://p3x.eu:8080/live/aykut54/aykut54/2.ts
+#EXTINF:-1,TR | beIN SPORTS 2 SD
+http://p3x.eu:8080/live/aykut54/aykut54/10226.ts
+#EXTINF:-1,TR | beIN SPORTS 3 HD
+http://p3x.eu:8080/live/aykut54/aykut54/3.ts
+#EXTINF:-1,TR | beIN SPORTS 3 SD
+http://p3x.eu:8080/live/aykut54/aykut54/10227.ts
+#EXTINF:-1,TR | beIN SPORTS 4 HD
+http://p3x.eu:8080/live/aykut54/aykut54/308.ts
+#EXTINF:-1,TR | beIN SPORTS MAX HD
+http://p3x.eu:8080/live/aykut54/aykut54/8565.ts
+#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8566.ts
+#EXTINF:-1,TR | beIN SPORTS  HD HABER
+http://p3x.eu:8080/live/aykut54/aykut54/9197.ts
+#EXTINF:-1,TR | SMART SPORT HD
+http://p3x.eu:8080/live/aykut54/aykut54/10.ts
+#EXTINF:-1,TR | S SPORT HD
+http://p3x.eu:8080/live/aykut54/aykut54/11.ts
+#EXTINF:-1,TR | Tivibu Spor 1 HD
+http://p3x.eu:8080/live/aykut54/aykut54/210.ts
+#EXTINF:-1,TR | Tivibu Spor 2 HD
+http://p3x.eu:8080/live/aykut54/aykut54/211.ts
+#EXTINF:-1,TR | Tivibu Spor 3 HD
+http://p3x.eu:8080/live/aykut54/aykut54/212.ts
+#EXTINF:-1,TR | Tivibu Spor 4 HD
+http://p3x.eu:8080/live/aykut54/aykut54/213.ts
+#EXTINF:-1,TR | TIVIBU SPOR 5 HD
+http://p3x.eu:8080/live/aykut54/aykut54/10676.ts
+#EXTINF:-1,TR | EUROSPORT 1 HD (FILBOX )
+http://p3x.eu:8080/live/aykut54/aykut54/17.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://p3x.eu:8080/live/aykut54/aykut54/30.ts
+#EXTINF:-1,TR | NBA-TV-HD
+http://p3x.eu:8080/live/aykut54/aykut54/12.ts
+#EXTINF:-1,TR | D MAX
+http://p3x.eu:8080/live/aykut54/aykut54/80.ts
+#EXTINF:-1,TR I BURSA SPOR TV
+http://p3x.eu:8080/live/aykut54/aykut54/10628.ts
+#EXTINF:-1,TR | BJK TV
+http://p3x.eu:8080/live/aykut54/aykut54/190.ts
+#EXTINF:-1,TR | GALATASARAY TV
+http://p3x.eu:8080/live/aykut54/aykut54/129.ts
+#EXTINF:-1,TR | FENERBAHCE TV
+http://p3x.eu:8080/live/aykut54/aykut54/119.ts
+#EXTINF:-1,TR | SPORST TV
+http://p3x.eu:8080/live/aykut54/aykut54/120.ts
+#EXTINF:-1,TR | ASPOR HD
+http://p3x.eu:8080/live/aykut54/aykut54/57.ts
+#EXTINF:-1,TR | TRT 3 SPOR HD
+http://p3x.eu:8080/live/aykut54/aykut54/294.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://p3x.eu:8080/live/aykut54/aykut54/55.ts
+#EXTINF:-1,TR I TAY TV
+http://p3x.eu:8080/live/aykut54/aykut54/147.ts
+#EXTINF:-1,DE | SKY SPORT1 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8709.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8708.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1
+http://p3x.eu:8080/live/aykut54/aykut54/9159.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga1
+http://p3x.eu:8080/live/aykut54/aykut54/8687.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://p3x.eu:8080/live/aykut54/aykut54/8686.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://p3x.eu:8080/live/aykut54/aykut54/8685.ts
+#EXTINF:-1,DE | SPORT  1 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8683.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://p3x.eu:8080/live/aykut54/aykut54/8684.ts
+#EXTINF:-1,FR | CANAL SPORT HD
+http://p3x.eu:8080/live/aykut54/aykut54/8929.ts
+#EXTINF:-1,FR | InfoSport
+http://p3x.eu:8080/live/aykut54/aykut54/8978.ts
+#EXTINF:-1,FR | L'EQUIPE 21
+http://p3x.eu:8080/live/aykut54/aykut54/8948.ts
+#EXTINF:-1,FR | SFR SPORT 1 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8915.ts
+#EXTINF:-1,FR | SFR SPORT 2 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8914.ts
+#EXTINF:-1,FR | SFR SPORT 3 HD
+http://p3x.eu:8080/live/aykut54/aykut54/8913.ts
+#EXTINF:-1,UK | BTSport1
+http://p3x.eu:8080/live/aykut54/aykut54/8872.ts
+#EXTINF:-1,UK | BTSport2
+http://p3x.eu:8080/live/aykut54/aykut54/8873.ts
+#EXTINF:-1,UK | BTSportESPN
+http://p3x.eu:8080/live/aykut54/aykut54/8874.ts
+#EXTINF:-1,UK | BTSportEurope
+http://p3x.eu:8080/live/aykut54/aykut54/8871.ts
+#EXTINF:-1,UK | SkySport1 UK
+http://p3x.eu:8080/live/aykut54/aykut54/8863.ts
+#EXTINF:-1,UK | SkySport2 UK
+http://p3x.eu:8080/live/aykut54/aykut54/8864.ts
+#EXTINF:-1,UK | SkySport3 UK
+http://p3x.eu:8080/live/aykut54/aykut54/8865.ts
+#EXTINF:-1,UK | SkySport4  UK
+http://p3x.eu:8080/live/aykut54/aykut54/8866.ts
+#EXTINF:-1,UK | SkySport5 UK
+http://p3x.eu:8080/live/aykut54/aykut54/8867.ts
+#EXTINF:-1,UK | SkysportF1
+http://p3x.eu:8080/live/aykut54/aykut54/8868.ts
+#EXTINF:-1,UK | SkysportNews
+http://p3x.eu:8080/live/aykut54/aykut54/8870.ts
+#EXTINF:-1,UK | SkySportNewsUk
+http://p3x.eu:8080/live/aykut54/aykut54/8869.ts
+#EXTINF:-1,IT | PremiumEuroSport1
+http://p3x.eu:8080/live/aykut54/aykut54/8759.ts
+#EXTINF:-1,IT | PremiumEuroSport2
+http://p3x.eu:8080/live/aykut54/aykut54/8758.ts
+#EXTINF:-1,IT | PremiumSport
+http://p3x.eu:8080/live/aykut54/aykut54/8781.ts
+#EXTINF:-1,IT | Rai sport
+http://p3x.eu:8080/live/aykut54/aykut54/8814.ts
+#EXTINF:-1,IT | SkySport1HD
+http://p3x.eu:8080/live/aykut54/aykut54/8787.ts
+#EXTINF:-1,IT | SkySport2HD
+http://p3x.eu:8080/live/aykut54/aykut54/8786.ts
+#EXTINF:-1,IT | SkySport3HD
+http://p3x.eu:8080/live/aykut54/aykut54/8785.ts
+#EXTINF:-1,IT | SkySportF1HD
+http://p3x.eu:8080/live/aykut54/aykut54/8784.ts
+#EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
+http://p3x.eu:8080/live/aykut54/aykut54/8898.ts
+#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
+http://p3x.eu:8080/live/aykut54/aykut54/8897.ts
+#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
+http://p3x.eu:8080/live/aykut54/aykut54/8896.ts
+#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
+http://p3x.eu:8080/live/aykut54/aykut54/8895.ts
+#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
+http://p3x.eu:8080/live/aykut54/aykut54/8894.ts
+
+#EXTINF:-1,WWE NETWORK
+http://extremo.dyndns.ws:25461/live/kevin/kevin/2373.ts
+#EXTINF:-1,Bein Sports HD
+http://extremo.dyndns.ws:25461/live/kevin/kevin/2364.ts
+#EXTINF:-1,FOX SPORT PREMIUM HD
+http://extremo.dyndns.ws:25461/live/kevin/kevin/2628.ts
+#EXTINF:-1,BEIN SPORT ( Ñ )
+http://extremo.dyndns.ws:25461/live/kevin/kevin/2776.ts
+#EXTINF:-1,TNT  SPORTS HD
+http://extremo.dyndns.ws:25461/live/kevin/kevin/2627.ts
+#EXTINF:-1,FOXSPORTS (tp)
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3053.ts
+#EXTINF:-1,FOXSPORTS 2 (tp)
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3052.ts
+#EXTINF:-1,BEIN SPORT España
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3167.ts
+#EXTINF:-1,FOX Sports (clr)
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3137.ts
+#EXTINF:-1,FOX Sports 2 (clr)
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3136.ts
+#EXTINF:-1,FOX Sports 3 (clr)
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3135.ts
+#EXTINF:-1,FOX SPORTS 1
+http://extremo.dyndns.ws:25461/live/kevin/kevin/3962.ts
+#EXTINF:-1,PREMIER SPORTS
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4535.ts
+#EXTINF:-1,SKY SPORTS
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4540.ts
+#EXTINF:-1,SKY SPORTS 1
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4536.ts
+#EXTINF:-1,SKY SPORTS ARENA
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4539.ts
+#EXTINF:-1,SKY SPORTS CRICKET
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4538.ts
+#EXTINF:-1,SKY SPORTS F1
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4534.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4541.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://extremo.dyndns.ws:25461/live/kevin/kevin/4537.ts
+
+#EXTINF:-1,TR | beIN SPORTS 1 SD
+http://p3x.eu:8080/live/onderoz/ozonder/8654.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD MOBILE
+http://p3x.eu:8080/live/onderoz/ozonder/8604.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD
+http://p3x.eu:8080/live/onderoz/ozonder/1.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD 720 p
+http://p3x.eu:8080/live/onderoz/ozonder/8655.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD 1080 p
+http://p3x.eu:8080/live/onderoz/ozonder/8656.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD.265.HVEC
+http://p3x.eu:8080/live/onderoz/ozonder/234.ts
+#EXTINF:-1,TR | beIN SPORTS 1 HD 4K UHD
+http://p3x.eu:8080/live/onderoz/ozonder/9315.ts
+#EXTINF:-1,TR | beIN SPORTS 2 SD
+http://p3x.eu:8080/live/onderoz/ozonder/10226.ts
+#EXTINF:-1,TR | beIN SPORTS 2 HD
+http://p3x.eu:8080/live/onderoz/ozonder/2.ts
+#EXTINF:-1,TR | beIN SPORTS 3 SD
+http://p3x.eu:8080/live/onderoz/ozonder/10227.ts
+#EXTINF:-1,TR | beIN SPORTS 3 HD
+http://p3x.eu:8080/live/onderoz/ozonder/3.ts
+#EXTINF:-1,TR | beIN SPORTS 4 HD
+http://p3x.eu:8080/live/onderoz/ozonder/308.ts
+#EXTINF:-1,TR | beIN SPORTS MAX HD
+http://p3x.eu:8080/live/onderoz/ozonder/8565.ts
+#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
+http://p3x.eu:8080/live/onderoz/ozonder/8566.ts
+#EXTINF:-1,TR | beIN SPORTS  HD HABER
+http://p3x.eu:8080/live/onderoz/ozonder/9197.ts
+#EXTINF:-1,TR | SMART SPORT HD
+http://p3x.eu:8080/live/onderoz/ozonder/10.ts
+#EXTINF:-1,TR | S SPORT HD
+http://p3x.eu:8080/live/onderoz/ozonder/11.ts
+#EXTINF:-1,TR | EUROSPORT 1 HD (FILBOX )
+http://p3x.eu:8080/live/onderoz/ozonder/17.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://p3x.eu:8080/live/onderoz/ozonder/30.ts
+#EXTINF:-1,TR | Tivibu Spor 1 HD
+http://p3x.eu:8080/live/onderoz/ozonder/210.ts
+#EXTINF:-1,TR | Tivibu Spor 2 HD
+http://p3x.eu:8080/live/onderoz/ozonder/211.ts
+#EXTINF:-1,TR | Tivibu Spor 3 HD
+http://p3x.eu:8080/live/onderoz/ozonder/212.ts
+#EXTINF:-1,TR | Tivibu Spor 4 HD
+http://p3x.eu:8080/live/onderoz/ozonder/213.ts
+#EXTINF:-1,TR | TIVIBU SPOR 5 HD
+http://p3x.eu:8080/live/onderoz/ozonder/10676.ts
+#EXTINF:-1,TR | NBA-TV-HD
+http://p3x.eu:8080/live/onderoz/ozonder/12.ts
+#EXTINF:-1,TR | GALATASARAY TV
+http://p3x.eu:8080/live/onderoz/ozonder/129.ts
+#EXTINF:-1,TR | FENERBAHCE TV
+http://p3x.eu:8080/live/onderoz/ozonder/119.ts
+#EXTINF:-1,TR I BURSA SPOR TV
+http://p3x.eu:8080/live/onderoz/ozonder/10628.ts
+#EXTINF:-1,TR | BJK TV
+http://p3x.eu:8080/live/onderoz/ozonder/190.ts
+#EXTINF:-1,TR | ASPOR HD
+http://p3x.eu:8080/live/onderoz/ozonder/57.ts
+#EXTINF:-1,TR | SPORST TV
+http://p3x.eu:8080/live/onderoz/ozonder/120.ts
+#EXTINF:-1,TR | TRT 3 SPOR HD
+http://p3x.eu:8080/live/onderoz/ozonder/294.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://p3x.eu:8080/live/onderoz/ozonder/55.ts
+#EXTINF:-1,TR I TAY TV
+http://p3x.eu:8080/live/onderoz/ozonder/147.ts
+#EXTINF:-1,DE | SKY SPORT1 HD
+http://p3x.eu:8080/live/onderoz/ozonder/8709.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://p3x.eu:8080/live/onderoz/ozonder/8708.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://p3x.eu:8080/live/onderoz/ozonder/8686.ts
+#EXTINF:-1,DE | SPORT  1 HD
+http://p3x.eu:8080/live/onderoz/ozonder/8683.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://p3x.eu:8080/live/onderoz/ozonder/8684.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://p3x.eu:8080/live/onderoz/ozonder/8685.ts
+#EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
+http://p3x.eu:8080/live/onderoz/ozonder/8898.ts
+#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
+http://p3x.eu:8080/live/onderoz/ozonder/8897.ts
+#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
+http://p3x.eu:8080/live/onderoz/ozonder/8896.ts
+#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
+http://p3x.eu:8080/live/onderoz/ozonder/8895.ts
+#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
+http://p3x.eu:8080/live/onderoz/ozonder/8894.ts
+#EXTINF:-1,NL | ZIGGO SPORT GOLF
+http://p3x.eu:8080/live/onderoz/ozonder/8889.ts
+#EXTINF:-1,NL | ZIGGO SPORT RACING
+http://p3x.eu:8080/live/onderoz/ozonder/8890.ts
+#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
+http://p3x.eu:8080/live/onderoz/ozonder/8891.ts
+#EXTINF:-1,NL | ZIGGO SPORT VOETBAL
+http://p3x.eu:8080/live/onderoz/ozonder/8892.ts
+#EXTINF:-1,UK | SkySport1 UK
+http://p3x.eu:8080/live/onderoz/ozonder/8863.ts
+#EXTINF:-1,UK | SkySport2 UK
+http://p3x.eu:8080/live/onderoz/ozonder/8864.ts
+#EXTINF:-1,UK | SkySport3 UK
+http://p3x.eu:8080/live/onderoz/ozonder/8865.ts
+#EXTINF:-1,UK | SkySport4  UK
+http://p3x.eu:8080/live/onderoz/ozonder/8866.ts
+#EXTINF:-1,UK | SkySport5 UK
+http://p3x.eu:8080/live/onderoz/ozonder/8867.ts
+#EXTINF:-1,UK | SkysportF1
+http://p3x.eu:8080/live/onderoz/ozonder/8868.ts
+#EXTINF:-1,UK | SkysportNews
+http://p3x.eu:8080/live/onderoz/ozonder/8870.ts
+#EXTINF:-1,UK | SkySportNewsUk
+http://p3x.eu:8080/live/onderoz/ozonder/8869.ts
+#EXTINF:-1,UK | BTSport1
+http://p3x.eu:8080/live/onderoz/ozonder/8872.ts
+#EXTINF:-1,UK | BTSport2
+http://p3x.eu:8080/live/onderoz/ozonder/8873.ts
+#EXTINF:-1,UK | BTSportESPN
+http://p3x.eu:8080/live/onderoz/ozonder/8874.ts
+#EXTINF:-1,UK | BTSportEurope
+http://p3x.eu:8080/live/onderoz/ozonder/8871.ts
